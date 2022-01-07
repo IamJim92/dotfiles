@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = james_abbott92@outlook.com
+	name = James Abbott
